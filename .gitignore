@@ -1,0 +1,12 @@
+# Ignore generated log files
+logs/*.log
+
+# Keep the logs directory
+!logs/.gitkeep
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
