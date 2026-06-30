@@ -59,6 +59,18 @@ chmod +x linux_health_check.sh
 - Email Alerts
 - Cron Scheduling
 
+## Learning Outcomes
+
+Through this project, I practiced:
+
+- Writing modular Bash scripts using functions.
+- Collecting Linux system information.
+- Parsing command output using `awk`.
+- Implementing memory and disk health checks.
+- Using ANSI colors for readable terminal output.
+- Creating timestamped log files.
+- Managing source code using Git and GitHub.
+
 ## Author
 
 Lakshmana Gowda
